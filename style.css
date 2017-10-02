@@ -1,0 +1,53 @@
+body{
+    font-family:Verdana, Arial, Sans-Serif;
+    color:#444;
+    font-size:.7em;
+}
+
+h6{
+    font-size:1.2em;
+    margin:2px 4px 16px 4px;
+}
+
+table
+{
+    border-spacing:0px;
+    margin:32px;
+}
+
+table td{
+    font-family:Courier New;
+    padding:4px;
+    border-bottom:1px solid #DDD;
+}
+
+table th{
+    padding:4px;
+    border-bottom:2px solid #BBB;
+}
+
+.group{
+    border:1px solid #444;
+    border-radius:4px;
+    padding:8px;
+}
+
+div.byhead{
+    float:right;
+    font-size:.8em;
+}
+
+span.note{
+    font-size:.8em;
+    color:#888;
+}
+
+span.form-group{display:inline-block;}
+
+span.form-group > label{
+    display:block;
+    text-indent:.5em;
+}
+
+input.small{width:32px;}
+input.med{width: 115px; padding-left: 25px;}
